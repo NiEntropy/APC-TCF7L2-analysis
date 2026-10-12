@@ -1,0 +1,38 @@
+﻿assay,cell_line,condition,comparison,annotation,source_figure,source_panel,scope
+WB,HT29,#1,#1 vs matched shNC,****,论文结果图/突变型（改）.png,B,source pairwise annotation
+WB,SW620,#4,#4 vs matched shNC,ns,论文结果图/突变型（改）.png,F,source pairwise annotation
+WB,SW620,#6,#6 vs matched shNC,**,论文结果图/突变型（改）.png,F,source pairwise annotation
+WB,LOVO,#4,#4 vs matched shNC,**,论文结果图/突变型（改）.png,J,source pairwise annotation
+WB,LOVO,#6,#6 vs matched shNC,**,论文结果图/突变型（改）.png,J,source pairwise annotation
+WB,LS174T,#1,#1 vs matched shNC,****,论文结果图/野生型（改）.png,B,source pairwise annotation
+WB,RKO,#6,#6 vs matched shNC,**,论文结果图/野生型（改）.png,J,source pairwise annotation
+WB,NCM460,#6,#6 vs matched shNC,**,论文结果图/野生型（改）.png,F,source pairwise annotation
+qPCR,HT29,#1,#1 vs matched shNC,***,论文结果图/突变型（改）.png,A,source pairwise annotation
+qPCR,SW620,#4,#4 vs matched shNC,****,论文结果图/突变型（改）.png,E,source pairwise annotation
+qPCR,SW620,#6,#6 vs matched shNC,****,论文结果图/突变型（改）.png,E,source pairwise annotation
+qPCR,LOVO,#4,#4 vs matched shNC,****,论文结果图/突变型（改）.png,I,source pairwise annotation
+qPCR,LOVO,#6,#6 vs matched shNC,****,论文结果图/突变型（改）.png,I,source pairwise annotation
+qPCR,LS174T,#1,#1 vs matched shNC,***,论文结果图/野生型（改）.png,A,source pairwise annotation
+qPCR,RKO,#6,#6 vs matched shNC,****,论文结果图/野生型（改）.png,I,source pairwise annotation
+qPCR,NCM460,#6,#6 vs matched shNC,****,论文结果图/野生型（改）.png,E,source pairwise annotation
+SRB,HT29,#1,#1 vs matched shNC,****,论文结果图/突变型（改）.png,C,source group-level curve annotation; not a per-time-point or 96h test
+SRB,SW620,#6,#6 vs matched shNC,****,论文结果图/突变型（改）.png,G,source group-level curve annotation; not a per-time-point or 96h test
+SRB,LOVO,#4,#4 vs matched shNC,****,论文结果图/突变型（改）.png,K,source group-level curve annotation; not a per-time-point or 96h test
+SRB,LOVO,#6,#6 vs matched shNC,****,论文结果图/突变型（改）.png,K,source group-level curve annotation; not a per-time-point or 96h test
+SRB,LS174T,#1,#1 vs matched shNC,ns,论文结果图/野生型（改）.png,C,source group-level curve annotation; not a per-time-point or 96h test
+SRB,RKO,#6,#6 vs matched shNC,ns,论文结果图/野生型（改）.png,K,source group-level curve annotation; not a per-time-point or 96h test
+SRB,NCM460,#6,#6 vs matched shNC,ns,论文结果图/野生型（改）.png,G,source group-level curve annotation; not a per-time-point or 96h test
+colony,HT29,#1,#1 vs matched shNC,****,论文结果图/突变型（改）.png,D,source pairwise annotation
+colony,SW620,#6,#6 vs matched shNC,****,论文结果图/突变型（改）.png,H,source pairwise annotation
+colony,LOVO,#4,#4 vs matched shNC,***,论文结果图/突变型（改）.png,L,source pairwise annotation
+colony,LOVO,#6,#6 vs matched shNC,***,论文结果图/突变型（改）.png,L,source pairwise annotation
+colony,LS174T,#1,#1 vs matched shNC,ns,论文结果图/野生型（改）.png,D,source pairwise annotation
+colony,RKO,#6,#6 vs matched shNC,ns,论文结果图/野生型（改）.png,L,source pairwise annotation
+colony,NCM460,#6,#6 vs matched shNC,ns,论文结果图/野生型（改）.png,H,source pairwise annotation
+SRB_96h,HT29,#1,#1 vs matched shNC,****,Fig2_growth_data.csv; newly calculated,Fig2F,two-sided Welch t-test; Holm across 7 comparisons; technical wells
+SRB_96h,SW620,#6,#6 vs matched shNC,****,Fig2_growth_data.csv; newly calculated,Fig2F,two-sided Welch t-test; Holm across 7 comparisons; technical wells
+SRB_96h,LOVO,#4,#4 vs matched shNC,***,Fig2_growth_data.csv; newly calculated,Fig2F,two-sided Welch t-test; Holm across 7 comparisons; technical wells
+SRB_96h,LOVO,#6,#6 vs matched shNC,****,Fig2_growth_data.csv; newly calculated,Fig2F,two-sided Welch t-test; Holm across 7 comparisons; technical wells
+SRB_96h,LS174T,#1,#1 vs matched shNC,ns,Fig2_growth_data.csv; newly calculated,Fig2F,two-sided Welch t-test; Holm across 7 comparisons; technical wells
+SRB_96h,RKO,#6,#6 vs matched shNC,ns,Fig2_growth_data.csv; newly calculated,Fig2F,two-sided Welch t-test; Holm across 7 comparisons; technical wells
+SRB_96h,NCM460,#6,#6 vs matched shNC,ns,Fig2_growth_data.csv; newly calculated,Fig2F,two-sided Welch t-test; Holm across 7 comparisons; technical wells

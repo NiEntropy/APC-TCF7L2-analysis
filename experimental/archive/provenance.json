@@ -1,0 +1,44 @@
+[
+  {
+    "path": "archive/build_fig2_S4_S6.py",
+    "original_project_path": "output/pdf/Fig2_S4_S6/build_figures.py",
+    "original_sha256": "0af0c3bae5418266101d9671993c27e31320fd381cc66deaa09a9b9b904b2fea",
+    "packaged_sha256": "9d78546134e89266968da062ab4abbb3440a4bc1b26dd577310030a139a0859e"
+  },
+  {
+    "path": "archive/build_fig3_paired.py",
+    "original_project_path": "output/pdf/Fig3_paired_statistics/build_fig3_paired.py",
+    "original_sha256": "0a6fd713412f44209724e9a48766ae6fcaa98e14df137ea88bd5f20e8d1c5d6a",
+    "packaged_sha256": "bcac7cde762b53f85f9aa51c42797535ff9f000cdb52033467f4809b19715d71"
+  },
+  {
+    "path": "archive/build_fig3_S7_S8.py",
+    "original_project_path": "output/pdf/Fig3_S7_S8/build_fig3.py",
+    "original_sha256": "34a09f65725475cb61027db1e7ca8364702e7c20f8ed9109aaa4d9e4b79805ba",
+    "packaged_sha256": "8ccf9a062611398934286bef662859c56e6b7cae397501c4c97a88c5d7785414"
+  },
+  {
+    "path": "archive/build_fig4_ANOVA_Sidak.py",
+    "original_project_path": "output/pdf/Fig4_ANOVA_Sidak_20261008/revise_fig4_sidak.py",
+    "original_sha256": "3ebdaa5d015abb3d17d6467eb4c913c3775bf46eeb9f20d2be7942a778a65931",
+    "packaged_sha256": "fc1e5c5b106b26881d3953483580cbbfc8cccf179a25e0b4ea45030c413a2dbe"
+  },
+  {
+    "path": "archive/build_fig4_fig5_S9_S12.py",
+    "original_project_path": "output/pdf/Fig4_Fig5_S9_S12/build_fig45.py",
+    "original_sha256": "45aa035e39f3a19a6db727227cb1ea2d014f6546b70ec662246c11e211daf190",
+    "packaged_sha256": "e667b9b872f7c92cf55961f810ede9ed9e109a5963d2bd95d31384a9e9c3c3f6"
+  },
+  {
+    "path": "archive/build_fig5G_n6.py",
+    "original_project_path": "output/pdf/Fig5G_n6_20261008/reproduce.py",
+    "original_sha256": "c2e2b22f20b502a19cca5f16fc3b128519665ebaafc20e10e770ca0a916c9683",
+    "packaged_sha256": "7a87f34c6221e4b567699597e6eedb97cc0bf2cb75c05b094311df167086e07c"
+  },
+  {
+    "path": "archive/build_fig5_BC_rasterized.py",
+    "original_project_path": "output/pdf/Fig5_BC_rasterized_20261008/reproduce.py",
+    "original_sha256": "db41ab7d49b56fe3c0996448f0ba24ac69f61d6fb905759c064d39ae31d7a251",
+    "packaged_sha256": "44199295a1b14caa4310d553accba69b05d5c7f44047f441bda4d74b8fa51fce"
+  }
+]

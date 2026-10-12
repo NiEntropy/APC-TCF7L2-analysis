@@ -1,0 +1,307 @@
+[
+  {
+    "path": "experimental/archive/build_fig2_S4_S6.py",
+    "bytes": 18482,
+    "sha256": "9d78546134e89266968da062ab4abbb3440a4bc1b26dd577310030a139a0859e"
+  },
+  {
+    "path": "experimental/archive/build_fig3_paired.py",
+    "bytes": 12169,
+    "sha256": "bcac7cde762b53f85f9aa51c42797535ff9f000cdb52033467f4809b19715d71"
+  },
+  {
+    "path": "experimental/archive/build_fig3_S7_S8.py",
+    "bytes": 16948,
+    "sha256": "8ccf9a062611398934286bef662859c56e6b7cae397501c4c97a88c5d7785414"
+  },
+  {
+    "path": "experimental/archive/build_fig4_ANOVA_Sidak.py",
+    "bytes": 12445,
+    "sha256": "fc1e5c5b106b26881d3953483580cbbfc8cccf179a25e0b4ea45030c413a2dbe"
+  },
+  {
+    "path": "experimental/archive/build_fig4_fig5_S9_S12.py",
+    "bytes": 30426,
+    "sha256": "e667b9b872f7c92cf55961f810ede9ed9e109a5963d2bd95d31384a9e9c3c3f6"
+  },
+  {
+    "path": "experimental/archive/build_fig5_BC_rasterized.py",
+    "bytes": 2860,
+    "sha256": "44199295a1b14caa4310d553accba69b05d5c7f44047f441bda4d74b8fa51fce"
+  },
+  {
+    "path": "experimental/archive/build_fig5G_n6.py",
+    "bytes": 4627,
+    "sha256": "7a87f34c6221e4b567699597e6eedb97cc0bf2cb75c05b094311df167086e07c"
+  },
+  {
+    "path": "experimental/archive/provenance.json",
+    "bytes": 2244,
+    "sha256": "6996f51061414c10b9ea426b7b108632ef2a1b24dc958909ff1cb8332c34cde1"
+  },
+  {
+    "path": "experimental/data/Fig2/Fig2_growth_data.csv",
+    "bytes": 8047,
+    "sha256": "156dba0de0db8e653ce644887bcb5f16f678f4c0a8c83b2c886ffa6caa6f9c3d"
+  },
+  {
+    "path": "experimental/data/Fig2/Fig2_source_data.csv",
+    "bytes": 2220,
+    "sha256": "7c8be7a59772bc158ff3b940e03cf420ad3d6365a2854d9d42e63343465914b2"
+  },
+  {
+    "path": "experimental/data/Fig2/Fig2F_statistics.csv",
+    "bytes": 2654,
+    "sha256": "eb1862733b74c0c9e7271aab1043520e2b5cb45cd4ce2ba85488fe6f907b2fcb"
+  },
+  {
+    "path": "experimental/data/Fig2/FigS4_S6_source_data.csv",
+    "bytes": 5314,
+    "sha256": "10b0ca1735367b3bb4d6f1932bdbe7dfbdf5c7e1721fda6fffc597f89db92efd"
+  },
+  {
+    "path": "experimental/data/Fig2/Significance_source_map.csv",
+    "bytes": 4615,
+    "sha256": "7dfa72aa96cb0350bfe9765e3e6b478fb73d11be3336f0ea2e5ac8c1640cea77"
+  },
+  {
+    "path": "experimental/data/Fig3/Fig3D_F_paired_statistics.csv",
+    "bytes": 936,
+    "sha256": "72f950a26946a30a3eec09c66536989613abdec830a9926c2baae9d2c7d1e264"
+  },
+  {
+    "path": "experimental/data/Fig3/GSEA_apoptotic_signaling.json",
+    "bytes": 6468,
+    "sha256": "8c1c281320232ceb2c7123bdb2be749d455c9a8c2960f84fe61496ff425808bf"
+  },
+  {
+    "path": "experimental/data/Fig3/HT29_GSEA_express.rnk.gz",
+    "bytes": 338999,
+    "sha256": "fa3865ed67360ed1d392812347e6dcdc58ff930f52ca7693a7538a3a7e3a254d"
+  },
+  {
+    "path": "experimental/data/Fig3/plotted_data.csv",
+    "bytes": 8070,
+    "sha256": "b29a429855fa2904cebadd2339cd6d554e3a5bf002030c4f86660a605efc8e5f"
+  },
+  {
+    "path": "experimental/data/Fig3/SW620_GSEA_express.rnk.gz",
+    "bytes": 352361,
+    "sha256": "e2cee7f1247ba7450d02001c96b0a872e87800327cab5a895b8c6d72bc4b6377"
+  },
+  {
+    "path": "experimental/data/Fig4/animal_measurements_Excel.csv",
+    "bytes": 6076,
+    "sha256": "5827a5bb07d3dbd8cfbe7781327dcf805ea2f3d5d45afc747bd3088f269a8ff0"
+  },
+  {
+    "path": "experimental/data/Fig4/Fig4_endpoint_tests.csv",
+    "bytes": 154,
+    "sha256": "b79eebb85b59ac99f42fa04f5cb17f55d42afe9bb00c668c2befa6acc36ba7b3"
+  },
+  {
+    "path": "experimental/data/Fig4/Fig4C_individual_volumes.csv",
+    "bytes": 8110,
+    "sha256": "4be64d6eb7d52abed8b2e23b6578520a3377ed264a367cb57718159b49cf9d18"
+  },
+  {
+    "path": "experimental/data/Fig4/Fig4C_ordinary_two_way_ANOVA.csv",
+    "bytes": 371,
+    "sha256": "5f386a1666c311f42038d3f73beb98823b75d57866b36398d4a044553c254e38"
+  },
+  {
+    "path": "experimental/data/Fig4/Fig4C_Sidak_comparisons.csv",
+    "bytes": 1799,
+    "sha256": "f7aaccbd8b0d1ea1db66d396178c6d1f9f2ca97d1079e70b25ff4203928feb87"
+  },
+  {
+    "path": "experimental/data/Fig4/Fig4D_Prism_weights.csv",
+    "bytes": 172,
+    "sha256": "fbf2aabf4f5d102fb3edf2c08c9c934549258cd920070bff3861a40a5f0de3f4"
+  },
+  {
+    "path": "experimental/data/Fig4/Fig4D_Student_t_test.csv",
+    "bytes": 398,
+    "sha256": "836b0297f417ff8c5c7bc769a3463aa2f04511b6e3f67c12dc5b9ba7e34e13ec"
+  },
+  {
+    "path": "experimental/data/Fig4/TUNEL_fields.csv",
+    "bytes": 1303,
+    "sha256": "4fc105fb79870cece0b18432bc9afd095f768f8ab3287db1e5d8c49dbacbe812"
+  },
+  {
+    "path": "experimental/data/Fig5/Fig5G_independent_samples.csv",
+    "bytes": 2123,
+    "sha256": "7ccad689488e89dcd61cd2cea9d517c3c365c453b7ec82067aef1cf0af0471c9"
+  },
+  {
+    "path": "experimental/data/Fig5/Fig5G_Student_t.csv",
+    "bytes": 674,
+    "sha256": "0d222d8872a3746c0c04029b8aa3111133ca2f957ef6c6e1ebc6717edd4a00c6"
+  },
+  {
+    "path": "experimental/data/RNAseq/Fig5F_selected_heatmap.csv",
+    "bytes": 4770,
+    "sha256": "ec038870fddc6430a836600a1bd4051b57481537649ff6746fb98a20153e7eec"
+  },
+  {
+    "path": "experimental/data/RNAseq/HT29_correlation_source.csv",
+    "bytes": 324,
+    "sha256": "a3d1aac5ae6896a3c02ed3041b830d3cf16f564a2088e7d4c57b2385f4d975a6"
+  },
+  {
+    "path": "experimental/data/RNAseq/HT29_DEG_full.csv.gz",
+    "bytes": 2935389,
+    "sha256": "518d1f5ceeb5dd3cf3ce9ab072c063b80180816cab00eabfe3d633a361667c57"
+  },
+  {
+    "path": "experimental/data/RNAseq/HT29_GO_original.csv.gz",
+    "bytes": 241219,
+    "sha256": "bd894f0a259173c97960abc6e766342721f244cbe4a8db0cb12e208fa6b0fdb7"
+  },
+  {
+    "path": "experimental/data/RNAseq/HT29_GSEA_original.csv.gz",
+    "bytes": 139300,
+    "sha256": "034cf4991a247a81859333360161004d661eb840acb0ad5ff43c3211ae92d3a8"
+  },
+  {
+    "path": "experimental/data/RNAseq/HT29_PCA_source_coordinates.csv",
+    "bytes": 333,
+    "sha256": "8f7bf308213c46330dcd20773e4b271590dba28d15d55cb50f8070f37aaca498"
+  },
+  {
+    "path": "experimental/data/RNAseq/S12_C_1.csv",
+    "bytes": 8722,
+    "sha256": "2820949d49a33f81f7dc11abfb78f296e91bbdf162512371b9c4b494eab04959"
+  },
+  {
+    "path": "experimental/data/RNAseq/S12_C_121.csv",
+    "bytes": 10409,
+    "sha256": "9b8d67f90c0468ce7183532fdeff8661e1de9c82d293cc72266ec1b77138ef46"
+  },
+  {
+    "path": "experimental/data/RNAseq/S12_C_161.csv",
+    "bytes": 3604,
+    "sha256": "e783d5aaa3a33aa53382411ada06dd8330d5049703ccd0747d03d0fbf29b041b"
+  },
+  {
+    "path": "experimental/data/RNAseq/S12_C_41.csv",
+    "bytes": 9953,
+    "sha256": "76be8a0a66dd294c85013e4b9851e841b92af3b7f7b7d2a605659022f922430f"
+  },
+  {
+    "path": "experimental/data/RNAseq/S12_C_81.csv",
+    "bytes": 9302,
+    "sha256": "e9ae921329fc98b351dd16f401875c3769aba2c6e6570172ea275d817d520d1a"
+  },
+  {
+    "path": "experimental/data/RNAseq/S12_D_1.csv",
+    "bytes": 7523,
+    "sha256": "e546f9f3ef7f3428f04ebca73e8237b1be3987056eb4c679d28b0fa86866812c"
+  },
+  {
+    "path": "experimental/data/RNAseq/S12_D_121.csv",
+    "bytes": 7316,
+    "sha256": "cc712f7e446d6922bea1433dde3f7864a0041be941182d26d1547df1bbe2f355"
+  },
+  {
+    "path": "experimental/data/RNAseq/S12_D_161.csv",
+    "bytes": 8693,
+    "sha256": "6db3918860e83175e4124add2c55eea1f1175a5785ab5d83d8756927c4b31055"
+  },
+  {
+    "path": "experimental/data/RNAseq/S12_D_201.csv",
+    "bytes": 4155,
+    "sha256": "001f7b5c0dfa7e159e2e73e73fc185731cf6e65e1c31ccd09928abc84cb98d87"
+  },
+  {
+    "path": "experimental/data/RNAseq/S12_D_41.csv",
+    "bytes": 8965,
+    "sha256": "4e8e9d381f2f728c52c2cc829a644616a9fce6d41ed15288a13bb98838a397cc"
+  },
+  {
+    "path": "experimental/data/RNAseq/S12_D_81.csv",
+    "bytes": 6834,
+    "sha256": "1cf7372abe00953746a8cbb54dc2f8965513ebbd789ec0b1d57e51d44ac0783c"
+  },
+  {
+    "path": "experimental/data/RNAseq/S12_HT29_top50.csv",
+    "bytes": 7065,
+    "sha256": "355630c4631b8915dd8d0a1069f1083e6794da513ce99902a9746e4ea225da64"
+  },
+  {
+    "path": "experimental/data/RNAseq/S12_SW620_top50.csv",
+    "bytes": 7045,
+    "sha256": "c2c9452ce5ea017da19b1bec95b1cfd3eee0048b5232455978f9f02445e48092"
+  },
+  {
+    "path": "experimental/data/RNAseq/shared_down_genes.csv",
+    "bytes": 418,
+    "sha256": "df53b063ff1927b4eed38d3e63d2d877f4a494c3fc688c3ff25b7ee18a713ad6"
+  },
+  {
+    "path": "experimental/data/RNAseq/shared_down_GO_recomputed.csv.gz",
+    "bytes": 78166,
+    "sha256": "abb9aa0e40f09ba9c8f6bd948ef8ac8c973af9faf204ba885113413583e090a4"
+  },
+  {
+    "path": "experimental/data/RNAseq/shared_up_genes.csv",
+    "bytes": 2342,
+    "sha256": "dae0b11b81110a452500aec86cf16a7e150a41e4174938453624c5bdee017d3a"
+  },
+  {
+    "path": "experimental/data/RNAseq/shared_up_GO_recomputed.csv.gz",
+    "bytes": 96052,
+    "sha256": "9d452537708ab6c4b60ac4c398ff06d3f1fbf7631c5ab11e93887523a11909a5"
+  },
+  {
+    "path": "experimental/data/RNAseq/SW620_correlation_source.csv",
+    "bytes": 326,
+    "sha256": "38cde15f00bf9ad55941a70df534c1538a97b471a9ff71e29403f9378bea8b08"
+  },
+  {
+    "path": "experimental/data/RNAseq/SW620_DEG_full.csv.gz",
+    "bytes": 3053369,
+    "sha256": "7af7c10ed4623fcfecf2cd06c8df3bca24e85256be2747f465a6fa4254d8740c"
+  },
+  {
+    "path": "experimental/data/RNAseq/SW620_GO_original.csv.gz",
+    "bytes": 550596,
+    "sha256": "cc410d377af1025ddc2ff08495cd0e3a6a9e680086c84e692dcffadeda2e5a8a"
+  },
+  {
+    "path": "experimental/data/RNAseq/SW620_GSEA_original.csv.gz",
+    "bytes": 138795,
+    "sha256": "589eefe2de62b2b053af3348adb2c0362ffc3618ee42ec3e1cf68e33d4a917b6"
+  },
+  {
+    "path": "experimental/data/RNAseq/SW620_PCA_source_coordinates.csv",
+    "bytes": 441,
+    "sha256": "2ba71d76032b929f840d15f11cdc1b628de0b95026a3c45f291a6ae3bcca4802"
+  },
+  {
+    "path": "experimental/environment-tested.json",
+    "bytes": 92,
+    "sha256": "42b0212859b008d10695605092e0fa9759b0d39dd36c8cc3b20b53429fa826a9"
+  },
+  {
+    "path": "experimental/README.md",
+    "bytes": 6967,
+    "sha256": "bff655b901db1bf45480e0aa90ff27783892c3c98abce0d63ecd78bbed6f04c4"
+  },
+  {
+    "path": "experimental/reproduce_statistics.py",
+    "bytes": 4429,
+    "sha256": "1654c20f79e280794824ad8e1ea51e65d60c62226b5650671c90b1c62e57dcce"
+  },
+  {
+    "path": "experimental/requirements.txt",
+    "bytes": 44,
+    "sha256": "d1bd7c9dc6028b0d596ac693516f0cb07daba5cce6439e9bb0399ba6ab41653e"
+  },
+  {
+    "path": "experimental/RNAseq_methods.md",
+    "bytes": 5075,
+    "sha256": "823890658c82c8935156eb73b8985315958de5079a73c92b39e944f81150cd1b"
+  }
+]
