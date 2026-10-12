@@ -1,0 +1,14 @@
+Processed/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.pem
+*.key
+output/**
+!output/*.py
+!output/pdf/
+!output/pdf/*.py
+tmp/
+*.zip

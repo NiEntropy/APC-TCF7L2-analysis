@@ -1,0 +1,26 @@
+[
+  {
+    "file": "h.all.v2025.1.Hs.symbols.gmt",
+    "url": "https://data.broadinstitute.org/gsea-msigdb/msigdb/release/2025.1.Hs/h.all.v2025.1.Hs.symbols.gmt",
+    "bytes": 48689,
+    "sha256": "f22066af72e215ccb7b89d88e492c07e1eef17534c2ca7b0f9902cfecbbdd8e9"
+  },
+  {
+    "file": "c2.cp.reactome.v2025.1.Hs.symbols.gmt",
+    "url": "https://data.broadinstitute.org/gsea-msigdb/msigdb/release/2025.1.Hs/c2.cp.reactome.v2025.1.Hs.symbols.gmt",
+    "bytes": 861211,
+    "sha256": "53b9b506bf3be87700cbb3cbbbb7a6faa847fbe62e65421541b14a2b763bab6b"
+  },
+  {
+    "file": "c2.cp.kegg_medicus.v2025.1.Hs.symbols.gmt",
+    "url": "https://data.broadinstitute.org/gsea-msigdb/msigdb/release/2025.1.Hs/c2.cp.kegg_medicus.v2025.1.Hs.symbols.gmt",
+    "bytes": 177279,
+    "sha256": "0b4e0d7c05e8fb12f9ffcc42bc69e54a590c6d68cabb4062f17bdc37ac57674b"
+  },
+  {
+    "file": "PROGENy_omnipath.tsv",
+    "url": "https://omnipathdb.org/annotations?databases=PROGENy&format=tsv&license=academic",
+    "bytes": 40878350,
+    "sha256": "a1a0f938211def2b846cfde7e7dd56d83240d1bb9bc0ac423682b071761bc821"
+  }
+]

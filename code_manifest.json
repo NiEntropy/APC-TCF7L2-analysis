@@ -1,0 +1,80 @@
+[
+  {
+    "path": "output/audit_multiomics.py",
+    "sha256": "601938ff97342c0f9a0ee9ded8af95f748e42b796a10623f710c1f00246d1fae",
+    "syntax_check": "passed",
+    "source_sha256": "229266d7922ae90853238c2f3edf74b164827a9df5849a17b7a29545bb16bfde"
+  },
+  {
+    "path": "output/audit_multiomics_overlap.py",
+    "sha256": "0298694a6c253a87855fd16f771b71073d6e5451605bc8995cf7a451f6da308a",
+    "syntax_check": "passed",
+    "source_sha256": "9b074785df78a984639d7ed42fc32cb7cd5afe79e1fb801fed70e40f894a4c20"
+  },
+  {
+    "path": "output/audit_new_26q1.py",
+    "sha256": "a215b912815f14941a7ae3120fe40b6325efce413d526c58e94ed4a5be17bcc8",
+    "syntax_check": "passed",
+    "source_sha256": "98955ffcc30a6fca12adeafe10f700fb3e78340b663faf5e61a2456c1fdaa57e"
+  },
+  {
+    "path": "output/audit_new_genomics.py",
+    "sha256": "51191df8f6df956f4034a601496a50d57e6fd11a50098076b0c9e558df7e9542",
+    "syntax_check": "passed",
+    "source_sha256": "5ad05ac3a10ff0136ab0caff9eaade41adeb3af28a7fccf99ccaf86b54df25e8"
+  },
+  {
+    "path": "output/cofig1_analysis.py",
+    "sha256": "dd8a25ba056bd6442162670d230dfab329c1b12dbf3ef631464286609d7d2404",
+    "syntax_check": "passed",
+    "source_sha256": "52ca20a4f9b73291bb809f81ecf5a00ee596683cf02b252f2083a524e39e9f33"
+  },
+  {
+    "path": "output/fig2_analysis.py",
+    "sha256": "fb042a403d7ee6fd908bdd9f4a82035e91dddaf4dd02553abc282597962c0598",
+    "syntax_check": "passed",
+    "source_sha256": "0dc43ddc1de739542e29d8b5b158016e38c8b210ec9ef9f84e5a9c8ca618f66a"
+  },
+  {
+    "path": "output/fig2_validate.py",
+    "sha256": "87ab2713e0348ee95ff94767c6b84b7f6d166cbe2815407c341525e8c824077d",
+    "syntax_check": "passed",
+    "source_sha256": "1ad9ffab5de335f5c11fd3ae8442ceea1b7721a0935c5dcc8198e8a66d89d28b"
+  },
+  {
+    "path": "output/fig2_resources.py",
+    "sha256": "7b7b081f5fdd4cd6bdd2a288a5497389316808a06321d91c6388730bf78ecf4f",
+    "syntax_check": "passed",
+    "source_sha256": "e29c47df47edb690f0bd7148ccd8972867cc21c36aeacb29aec339f96e7abda3"
+  },
+  {
+    "path": "output/fig2_plot.py",
+    "sha256": "5fe65bef330bac430dff05c86cb89068017618501dd66341b1a17cf165e43696",
+    "syntax_check": "passed",
+    "source_sha256": "5fe65bef330bac430dff05c86cb89068017618501dd66341b1a17cf165e43696"
+  },
+  {
+    "path": "output/pdf/build_fig1e.py",
+    "sha256": "66512f2b8c7b1ef2639df10431dfa70f280e8e1c3e3fde68187688261c63249b",
+    "syntax_check": "passed",
+    "source_sha256": "93fead9e04a8fdeb6042a0b0612648cb8aad8e055a12b02185e2b00082fcedb8"
+  },
+  {
+    "path": "output/pdf/build_fig1h.py",
+    "sha256": "1e6a51e0698b9bd74e886a9f69f6d545da775236ee7b689504bb20f4758f6ff8",
+    "syntax_check": "passed",
+    "source_sha256": "60b8ee0776e62c5a822f731fcbf74f83d7c1fc21babeb9468aa1896093ab13d5"
+  },
+  {
+    "path": "output/pdf/build_cofig1.py",
+    "sha256": "e4376a3989a265548f61d79ac66f4dc3e24019badb9383c0409f1a956c347d91",
+    "syntax_check": "passed",
+    "source_sha256": "a6cda879e30c8a182250f14c64db80a035309ab522847a1869f6c7927962a3f1"
+  },
+  {
+    "path": "output/pdf/build_refig2.py",
+    "sha256": "747daad75084474ff7952ef98cc3bb23eee48ed91e9d4599a24069e440bbafbf",
+    "syntax_check": "passed",
+    "source_sha256": "6178e25cc06586a8520f2727253200489b705d4e03d9c6feddab28890c2f6827"
+  }
+]
